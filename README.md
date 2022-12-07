@@ -23,3 +23,4 @@
 
 [![m_DZEN's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-DZEN)](https://github.com/anuraghazra/github-readme-stats)
  </div>
+[![codewars](https://www.codewars.com/users/m_dzen/badges/small)](https://www.codewars.com/users/username) 
