@@ -4,7 +4,13 @@
  <ul>
  <li>I love music, cinema and the black magic of programming</li>
  <li>PERN stack</li>
- <li>How to reach me:  <a href="mailto:mdzen87@gmail.com"> mdzen87@gmail.com </a> / Telegram <a href='https://t.me/m_Dze_n'>@m_Dze_n</a></li>
+ <li>How to reach me:  
+  <ul>
+   <li><a href="mailto:mdzen87@gmail.com">Email</a></li>
+   <li><a href='https://t.me/m_Dze_n'>Telegram</a></li>
+   <li><a href='https://www.linkedin.com/in/%D0%BC%D0%B0%D0%BA%D1%81%D0%B8%D0%BC-%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%B8%D0%BD-35604a128/'>LinkedIN</a></li>
+   </ul>
+</li>
 </ul>
 
 <h3 align="left" dir="auto"><a width="16" height="16"</a>Languages and Tools:</h3>
