@@ -8,7 +8,7 @@
   <ul>
    <li><a href="mailto:mdzen87@gmail.com">Email</a></li>
    <li><a href='https://t.me/m_Dze_n'>Telegram</a></li>
-   <li><a href='www.linkedin.com/in/m-dzen'>LinkedIN</a></li>
+   <li><a href='https://www.linkedin.com/in/m-dzen/'>LinkedIN</a></li>
    </ul>
 </li>
 </ul>
