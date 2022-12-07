@@ -8,4 +8,4 @@
 </ul>
 
 <h5>Languages and Tools:</5>
-
+<img src="https://simpleicons.org/icons/javascript.svg" alt="альтернативный текст" height="20px" width="20px">
