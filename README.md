@@ -19,7 +19,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-<div width="200" height="100"> 
+<div width="300" height="100"> 
 
 [![m_DZEN's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-DZEN)](https://github.com/anuraghazra/github-readme-stats)
  </div>
